@@ -7,7 +7,7 @@ Current repo provides implementation of EM algorithm in JAX using all of the nic
 4. Easy to use, like Numpy
 
 ## Running scripts
-All of the code is contained in Jupyter notebook for the ease of visualizations.
+All of the code is contained in Jupyter notebook `jax_em.ipynb` for the ease of visualizations.
 
 ## Checkpoints & Data
-
+Datasets are contained in `data` folder.
