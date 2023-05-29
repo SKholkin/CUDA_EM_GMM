@@ -1,5 +1,5 @@
 # JAX Accelerated EM for Gaussian Mixture Models
-Current repo provides implementation of EM algorithm in JAX using all of the nice just-in-time compilation utilities of this beautiful library, such as:
+Current repo provides implementation of EM algorithm in JAX using all of the nice just-in-time compilation utilities and parallezation features of this beautiful library, such as:
 
 1. JIT compilation using XLA
 2. Using CUDA is easy
